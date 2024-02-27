@@ -1,4 +1,4 @@
-# News_Web: 
+# News_Web (React.js): 
 Definition: Using News API (JSON based REST API) for searching and retrieving news articles from all over the web. Using this, to fetch the top stories and article on our news website.
 
 API link: https://newsapi.org/
